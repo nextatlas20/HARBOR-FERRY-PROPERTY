@@ -1,0 +1,9 @@
+item_id,location,category,found_at,revision
+LP-101,Pier 2,Umbrella,2029-06-01T08:00Z,1
+LP-102,Ferry Hall,Camera,2029-06-01T08:15Z,1
+LP-102,Gate B,Camera,2029-06-01T08:15Z,2
+LP-103,Terminal,Tote,2029-06-01T08:30Z,1
+LP-104,Dock,Book,2029-06-01T08:45Z,1
+LP-105,Wharf,Jacket,2029-06-01T09:00Z,1
+LP-106,Depot,Keys,2029-06-01T09:05Z,01
+LP-X07,Depot,Wallet,2029-06-01T09:10Z,1

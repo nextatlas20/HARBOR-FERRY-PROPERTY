@@ -1,0 +1,12 @@
+{"item_id":"LP-101","claimant":"Alex","filed_at":"2029-06-01T09:00Z","claim_seq":1,"proof":"VERIFIED"}
+{"item_id":"LP-102","claimant":"Bea","filed_at":"2029-06-01T10:00Z","claim_seq":1,"proof":"PENDING"}
+{"item_id":"LP-102","claimant":"Cato","filed_at":"2029-06-01T10:30Z","claim_seq":2,"proof":"VERIFIED"}
+{"item_id":"LP-103","claimant":"Faye","filed_at":"2029-06-01T08:00Z","claim_seq":1,"proof":"VERIFIED"}
+{"item_id":"LP-104","claimant":"Diya","filed_at":"2029-06-01T11:00Z","claim_seq":1,"proof":"PENDING"}
+{"item_id":"LP-104","claimant":"Diya","filed_at":"2029-06-01T11:30Z","claim_seq":1,"proof":"PENDING"}
+{"item_id":"LP-105","claimant":"Ellis","filed_at":"2029-06-01T12:00Z","claim_seq":4,"proof":"DENIED"}
+{"item_id":"LP-999","claimant":"Gus","filed_at":"2029-06-01T12:15Z","claim_seq":1,"proof":"VERIFIED"}
+{"item_id":"LP-101","claimant":"Alex","filed_at":"2029-06-02T09:00Z","claim_seq":3,"proof":"VERIFIED"}
+{"item_id":"LP-104","claimant":"Diya","filed_at":"2029-06-01T12:00Z","claim_seq":0,"proof":"PENDING"}
+{"item_id":"LP-105","claimant":"Ellis","filed_at":"2029-06-01T12:10Z","claim_seq":5,"proof":"UNKNOWN"}
+not json
